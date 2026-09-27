@@ -65,7 +65,3 @@ OWL Cocktails uses **GSAP timelines** for:
 * Smooth section transitions
 * Hero text and image reveals
 * Cocktail cards hover effects
-
-## 🌍 Live Demo
-
-
